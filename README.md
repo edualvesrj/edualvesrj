@@ -1,4 +1,4 @@
-### I'm Eduardo - aka Bobby from the "Bobby's World" cartoon 🤣 
+# I'm Eduardo - aka Bobby from the "Bobby's World" cartoon 🤣 
 
 [![Website](https://img.shields.io/static/v1?label=LinkedIn&message=edualvesrj&color=blue&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edualvesrj/)
 [![Website](https://img.shields.io/static/v1?label=Instagram&message=edualvesrj&color=red&style=for-the-badge&logo=instagram)](https://www.instagram.com/edualvesrj/)
