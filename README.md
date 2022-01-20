@@ -49,6 +49,10 @@
 ### Cloud ☁️
 
 [![Website](https://img.shields.io/static/v1?label=Coursera&message=Google%20Cloud%20Fundamentals:%20Core%20Infrastructure&color=blue&style=for-the-badge&logo=coursera)](https://coursera.org/share/4e7d21852499bdd19a1ca2b681adbe24)
+[![Website](https://img.shields.io/static/v1?label=Coursera&message=IBM:%20Introduction%20to%20Cloud%20Computing&color=blue&style=for-the-badge&logo=coursera)](https://coursera.org/share/33817159952b0f06de6eaac483500b98)
 
+### Other stuffs 💡
 
+[![Website](https://img.shields.io/static/v1?label=Coursera&message=Usable%20Security&color=blue&style=for-the-badge&logo=coursera)](https://coursera.org/share/765fea631571394e4a435cd89e74f9ae)
+[![Website](https://img.shields.io/static/v1?label=Coursera&message=Python%20for%20Data Science,%20AI%20and%20Development&color=blue&style=for-the-badge&logo=coursera)](https://www.coursera.org/learn/python-for-applied-data-science-ai)
 
