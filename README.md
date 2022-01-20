@@ -54,5 +54,5 @@
 ### Other stuffs 💡
 
 [![Website](https://img.shields.io/static/v1?label=Coursera&message=Usable%20Security&color=blue&style=for-the-badge&logo=coursera)](https://coursera.org/share/765fea631571394e4a435cd89e74f9ae)
-[![Website](https://img.shields.io/static/v1?label=Coursera&message=Python%20for%20Data%20Science,%20AI%20and%20Development&color=blue&style=for-the-badge&logo=coursera)](https://www.coursera.org/learn/python-for-applied-data-science-ai)
-
+[![Website](https://img.shields.io/static/v1?label=Coursera&message=Python%20for%20Data%20Science,%20AI%20and%20Development&color=blue&style=for-the-badge&logo=coursera)](https://www.linkedin.com/in/edualvesrj/)
+[![Website](https://img.shields.io/static/v1?label=Coursera&message=SFPC:%20SCRUM%20Foundation%20Professional%20Certificate&color=blue&style=for-the-badge&logo=coursera)](https://www.linkedin.com/in/edualvesrj/)
