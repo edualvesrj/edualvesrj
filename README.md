@@ -34,4 +34,18 @@
 
 ### Data Science Specialization 📚
 
+[![Website](https://img.shields.io/static/v1?label=Coursera&message=Data%20Science%20:%20Foundations%20using%20R&color=blue&style=for-the-badge&logo=coursera)](https://coursera.org/share/97d309c1ce5eec3975857ab21ff07e96)
+
+#### Course per Course
+
 [![Website](https://img.shields.io/static/v1?label=Coursera&message=The%20Data%20Scientist’s%20Toolbox&color=blue&style=for-the-badge&logo=coursera)](https://coursera.org/share/97d309c1ce5eec3975857ab21ff07e96)
+[![Website](https://img.shields.io/static/v1?label=Coursera&message=R%20Programming&color=blue&style=for-the-badge&logo=coursera)](https://coursera.org/share/c6816cdffbd61c7c23cb0f299d6d5b1c)
+[![Website](https://img.shields.io/static/v1?label=Coursera&message=Getting%20and%20Cleaning%20Data&color=blue&style=for-the-badge&logo=coursera)](https://coursera.org/share/676219a3aa724e5771616f2315e7151f)
+[![Website](https://img.shields.io/static/v1?label=Coursera&message=Exploratory%20Data%20Analysis&color=blue&style=for-the-badge&logo=coursera)](https://coursera.org/share/c855179648d90f9acb44a77ba48f851b)
+[![Website](https://img.shields.io/static/v1?label=Coursera&message=Statistical%20Inference&color=blue&style=for-the-badge&logo=coursera)](https://coursera.org/share/98fb4bc65a9dc308949ab4ea6605ec10)
+[![Website](https://img.shields.io/static/v1?label=Coursera&message=Reproducible%20Research&color=blue&style=for-the-badge&logo=coursera)](https://coursera.org/share/e0b8ee06e16ff37700e52048ce2dfd7d)
+[![Website](https://img.shields.io/static/v1?label=Coursera&message=Reproducible%20Research&color=blue&style=for-the-badge&logo=coursera)](https://coursera.org/share/e0b8ee06e16ff37700e52048ce2dfd7d)
+
+
+
+
