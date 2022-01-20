@@ -1,13 +1,16 @@
 ### I'm Eduardo - aka Bobby from the "Bobby's World" cartoon 🤣 
 
 [![Website](https://img.shields.io/static/v1?label=LinkedIn&message=edualvesrj&color=blue&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edualvesrj/)
+[![Website](https://img.shields.io/static/v1?label=Instagram&message=edualvesrj&color=red&style=for-the-badge&logo=instagram)](https://www.instagram.com/edualvesrj/)
+[![Website](https://img.shields.io/static/v1?label=Codecademy&message=edualvesrj&color=pink&style=for-the-badge&logo=codecademy)](https://www.codecademy.com/profiles/edualvesrj)
 
 ## I'm a Husband, Father, Developer, and I love to ride my bycicle 🚲
 
 - 🌱 I'm currently learning everything I can learn 🤣
+- 👨‍🎓 The repositories contain source codes for personal projects and all material from self-study courses
 - 👯 I am looking for a new position for .NET Developer in Canada 🇨🇦
 - 🥅 2022 Goals: Finish my personal projects
-- ⚡ Fun fact: I'm known as 'Bobby' because sometimes when I code, I enter my world 🤣
+- ⚡ Fun fact: I'm known as 'Bobby' because sometimes when I code, I enter my world 🤪
 
 ### Languages and Tools:
 
