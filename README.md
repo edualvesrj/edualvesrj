@@ -1,9 +1,11 @@
 ### I'm Eduardo - aka Bobby from the "Bobby's World" cartoon 🤣 
 
+[![Website](https://img.shields.io/website?label=LinkedIn.com&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com/in/edualvesrj)](https://www.linkedin.com/in/edualvesrj/)
+
 ## I'm a Husband, Father, Developer, and I love to ride my bycicle !!
 
 - 🌱 I'm currently learning everything I can learn 🤣
-- 👯 I am looking for a new job in Canada :canada:
+- 👯 I am looking for a new position for .NET Developer in Canada 🇨🇦
 - 🥅 2022 Goals: Finish my personal projects
 - ⚡ Fun fact: I'm known as 'Bobby' because sometimes when I code, I enter my world 🤣
 
