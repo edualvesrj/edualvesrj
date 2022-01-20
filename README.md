@@ -27,3 +27,9 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/github.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+## My Certifications and other stuffs that I learned 👨‍🎓
+
+### Data Science Specialization 📚
+
+[![Website](https://img.shields.io/static/v1?label=Coursera&message=The%20Data%20Scientist’s%20Toolbox&color=blue&style=for-the-badge&logo=coursera)](https://coursera.org/share/97d309c1ce5eec3975857ab21ff07e96)
