@@ -1,6 +1,6 @@
 ### I'm Eduardo - aka Bobby from the "Bobby's World" cartoon 🤣 
 
-[![Website](https://img.shields.io/website?label=LinkedIn.com&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com/in/edualvesrj)](https://www.linkedin.com/in/edualvesrj/)
+[![Website](https://img.shields.io/static/v1?label=LinkedIn&message=edualvesrj&color=blue&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edualvesrj/)
 
 ## I'm a Husband, Father, Developer, and I love to ride my bycicle !!
 
