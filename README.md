@@ -9,8 +9,6 @@
 - 🥅 2022 Goals: Finish my personal projects
 - ⚡ Fun fact: I'm known as 'Bobby' because sometimes when I code, I enter my world 🤣
 
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/csharp.png" />
@@ -26,6 +24,3 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/github.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<br />
-<br />
