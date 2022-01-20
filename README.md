@@ -34,9 +34,9 @@
 
 ### Data Science Specialization 📚
 
-[![Website](https://img.shields.io/static/v1?label=Coursera&message=Data%20Science%20:%20Foundations%20using%20R&color=blue&style=for-the-badge&logo=coursera)](https://coursera.org/share/97d309c1ce5eec3975857ab21ff07e96)
+[![Website](https://img.shields.io/static/v1?label=Coursera&message=Data%20Science:%20Foundations%20using%20R&color=blue&style=for-the-badge&logo=coursera)](https://coursera.org/share/97d309c1ce5eec3975857ab21ff07e96)
 
-#### Course per Course
+#### All Courses
 
 [![Website](https://img.shields.io/static/v1?label=Coursera&message=The%20Data%20Scientist’s%20Toolbox&color=blue&style=for-the-badge&logo=coursera)](https://coursera.org/share/97d309c1ce5eec3975857ab21ff07e96)
 [![Website](https://img.shields.io/static/v1?label=Coursera&message=R%20Programming&color=blue&style=for-the-badge&logo=coursera)](https://coursera.org/share/c6816cdffbd61c7c23cb0f299d6d5b1c)
@@ -46,6 +46,9 @@
 [![Website](https://img.shields.io/static/v1?label=Coursera&message=Reproducible%20Research&color=blue&style=for-the-badge&logo=coursera)](https://coursera.org/share/e0b8ee06e16ff37700e52048ce2dfd7d)
 [![Website](https://img.shields.io/static/v1?label=Coursera&message=Reproducible%20Research&color=blue&style=for-the-badge&logo=coursera)](https://coursera.org/share/e0b8ee06e16ff37700e52048ce2dfd7d)
 
+### Cloud ☁️
+
+[![Website](https://img.shields.io/static/v1?label=Coursera&message=Google%20Cloud%20Fundamentals:%20Core%20Infrastructure&color=blue&style=for-the-badge&logo=coursera)](https://coursera.org/share/4e7d21852499bdd19a1ca2b681adbe24)
 
 
 
