@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/static/v1?label=LinkedIn&message=edualvesrj&color=blue&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edualvesrj/)
 
-## I'm a Husband, Father, Developer, and I love to ride my bycicle !!
+## I'm a Husband, Father, Developer, and I love to ride my bycicle 🚲
 
 - 🌱 I'm currently learning everything I can learn 🤣
 - 👯 I am looking for a new position for .NET Developer in Canada 🇨🇦
