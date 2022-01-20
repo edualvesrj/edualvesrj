@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning everything I can learn 🤣
 - 👯 I am looking for a new job in Canada :canada:
-- 🥅 2021 Goals: Finish my personal projects
+- 🥅 2022 Goals: Finish my personal projects
 - ⚡ Fun fact: I'm known as 'Bobby' because sometimes when I code, I enter my world 🤣
 
 <br />
