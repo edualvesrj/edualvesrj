@@ -55,6 +55,6 @@
 
 [![Website](https://img.shields.io/static/v1?label=Coursera&message=Usable%20Security&color=blue&style=for-the-badge&logo=coursera)](https://coursera.org/share/765fea631571394e4a435cd89e74f9ae)
 [![Website](https://img.shields.io/static/v1?label=Coursera&message=Python%20for%20Data%20Science,%20AI%20and%20Development&color=blue&style=for-the-badge&logo=coursera)](https://www.linkedin.com/in/edualvesrj/)
-[![Website](https://img.shields.io/static/v1?label=Coursera&message=SFPC:%20SCRUM%20Foundation%20Professional%20Certificate&color=blue&style=for-the-badge&logo=coursera)](https://www.linkedin.com/in/edualvesrj/)
-[![Website](https://img.shields.io/static/v1?label=Coursera&message=KIKF:%20Kanban%20Foundation%20Certificate&color=blue&style=for-the-badge&logo=coursera)](https://www.linkedin.com/in/edualvesrj/)
-[![Website](https://img.shields.io/static/v1?label=Coursera&message=DEPC:%20Devops%20Essentials%20Professional%20Certificate&color=blue&style=for-the-badge&logo=coursera)](https://www.linkedin.com/in/edualvesrj/)
+[![Website](https://img.shields.io/static/v1?label=CertiProf&message=SFPC:%20SCRUM%20Foundation%20Professional%20Certificate&color=cyan&style=for-the-badge&logo=book)](https://www.linkedin.com/in/edualvesrj/)
+[![Website](https://img.shields.io/static/v1?label=CertiProf&message=KIKF:%20Kanban%20Foundation%20Certificate&color=cyan&style=for-the-badge&logo=book)](https://www.linkedin.com/in/edualvesrj/)
+[![Website](https://img.shields.io/static/v1?label=CertiProf&message=DEPC:%20Devops%20Essentials%20Professional%20Certificate&color=cyan&style=for-the-badge&logo=book)](https://www.linkedin.com/in/edualvesrj/)
