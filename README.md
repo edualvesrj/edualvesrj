@@ -34,7 +34,7 @@
 
 ### Data Science Specialization 📚
 
-[![Website](https://img.shields.io/static/v1?label=Coursera&message=Data%20Science:%20Foundations%20using%20R&color=blue&style=for-the-badge&logo=coursera)](https://coursera.org/share/97d309c1ce5eec3975857ab21ff07e96)
+[![Website](https://img.shields.io/static/v1?label=Coursera&message=Data%20Science:%20Foundations%20using%20R&color=blue&style=for-the-badge&logo=coursera)](https://www.linkedin.com/feed/update/urn:li:activity:6890039890524856321/)
 
 #### All Courses
 
