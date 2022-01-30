@@ -6,7 +6,7 @@
 
 ## I'm a Husband, Father, Developer, and I love to ride my bycicle 🚲
 
-- 🌱 I'm currently learning "Machine Learning" 🤖
+- 🌱 I'm currently studying to achieve my Full Stack Cloud Developer Certificate 🤖
 - 👨‍🎓 The repositories contain source codes for personal projects and all material from self-study courses
 - 👯 I am looking for a new position for .NET Developer in Canada 🇨🇦
 - 🥅 2022 Goals: Finish my personal projects
