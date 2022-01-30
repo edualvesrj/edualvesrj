@@ -12,6 +12,8 @@
 - 🥅 2022 Goals: Finish my personal projects
 - ⚡ Fun fact: I'm known as 'Bobby' because sometimes when I code, I enter my world 🤪
 
+[My Portfolio](http://edualvesrj.ca.s3-website.ca-central-1.amazonaws.com/)
+
 ### Languages and Tools:
 
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/csharp.png" />
