@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/static/v1?label=LinkedIn&message=edualvesrj&color=blue&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edualvesrj/)
 [![Website](https://img.shields.io/static/v1?label=Instagram&message=edualvesrj&color=red&style=for-the-badge&logo=instagram)](https://www.instagram.com/edualvesrj/)
+[![Website](https://img.shields.io/static/v1?label=Hackerrank&message=edualvesrj&color=pink&style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/edualvesrj)
 [![Website](https://img.shields.io/static/v1?label=Codecademy&message=edualvesrj&color=pink&style=for-the-badge&logo=codecademy)](https://www.codecademy.com/profiles/edualvesrj)
 
 ## I'm a Husband, Father, Developer, and I love to ride my bycicle 🚲
